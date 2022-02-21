@@ -1,0 +1,3 @@
+a)TTD ---> Test Driven Development (1.code---> 2.Testing);
+
+b)BDD ---> Behaviour driven development () ---> Cucumber
